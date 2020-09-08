@@ -35,6 +35,8 @@ v2.0.0  |   2020-06-18  |   涂仕聪    |   重构SDK
 假设现在你的工程目录名字叫project，下面将具体介绍如何将SDK接入project中。
 #### 关联资源工程（eclipse方式）
 
+* 解压从原创平台下载的zip包得到eclipse.zip
+* 然后解压eclipse.zip得到m4399Single文件
 * 将m4399Single导入到eclipse中
 * 右键点击工程名→Properties→Android
 * 勾选Is Library→OK
